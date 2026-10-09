@@ -36,7 +36,7 @@ I specialize in building robust desktop applications, database architecture, and
 
 ---
 
-### 📊 GitHub Stats
+
 
 ### 📊 GitHub Stats
 
