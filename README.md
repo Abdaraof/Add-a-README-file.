@@ -38,8 +38,10 @@ I specialize in building robust desktop applications, database architecture, and
 
 ### 📊 GitHub Stats
 
-![Abdalraouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+
+![Abdaraof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdaraof&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdaraof&layout=compact&theme=tokyonight)
 
 ---
 
